@@ -168,8 +168,6 @@ sections:
       - type: Label
         label: Next.js
       - type: Label
-        label: Netlify
-      - type: Label
         label: System Integration
         url: ''
       - type: Label
@@ -178,6 +176,8 @@ sections:
       - type: Label
         label: Technical Support
         url: ''
+      - type: Label
+        label: Netlify
   - type: DividerSection
     styles:
       self:
