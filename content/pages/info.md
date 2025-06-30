@@ -166,8 +166,6 @@ sections:
       - type: Label
         label: Microsoft Office
       - type: Label
-        label: Next.js
-      - type: Label
         label: System Integration
         url: ''
       - type: Label
@@ -176,6 +174,8 @@ sections:
       - type: Label
         label: Technical Support
         url: ''
+      - type: Label
+        label: Next.js
       - type: Label
         label: Netlify
   - type: DividerSection
