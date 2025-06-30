@@ -116,7 +116,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/gamboaaaa'
+            url: 'https://www.linkedin.com/in/gamboaaaa/'
         styles:
           self:
             textAlign: left
