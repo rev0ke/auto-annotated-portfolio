@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Coming Soon...
+title: ''
 colors: colors-a
 date: ''
 client: Coming Soon...
