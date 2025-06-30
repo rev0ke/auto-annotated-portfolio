@@ -7,7 +7,7 @@ backgroundImage:
   url: /images/241914049_573840997385716_1482760308598398267_n.jpg
   backgroundSize: contain
   backgroundPosition: center
-  backgroundRepeat: repeat-x
+  backgroundRepeat: repeat-y
   opacity: 75
 sections:
   - type: TextSection
