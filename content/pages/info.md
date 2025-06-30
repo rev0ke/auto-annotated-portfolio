@@ -166,10 +166,10 @@ sections:
       - type: Label
         label: Microsoft Office
       - type: Label
-        label: System Integration
+        label: Windows
         url: ''
       - type: Label
-        label: Windows
+        label: System Integration
         url: ''
       - type: Label
         label: Technical Support
