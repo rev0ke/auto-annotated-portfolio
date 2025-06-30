@@ -164,10 +164,10 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: Microsoft Office
-      - type: Label
         label: Windows
         url: ''
+      - type: Label
+        label: Microsoft Office
       - type: Label
         label: System Integration
         url: ''
