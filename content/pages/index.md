@@ -13,7 +13,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: Got an interesting idea? Or not. I got time to kill. Tell me more..
+    title: Welcome
     form:
       type: FormBlock
       elementId: sign-up-form
