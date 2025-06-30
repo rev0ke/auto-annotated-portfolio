@@ -13,7 +13,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: ''
+    title: Welcome
     styles:
       self:
         height: auto
