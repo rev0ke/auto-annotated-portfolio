@@ -173,6 +173,9 @@ sections:
         label: System Integration
         url: ''
       - type: Label
+        label: Windows
+        url: ''
+      - type: Label
         label: Technical Support
         url: ''
   - type: DividerSection
