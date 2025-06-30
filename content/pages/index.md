@@ -4,10 +4,10 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
-  backgroundSize: cover
+  url: /images/241914049_573840997385716_1482760308598398267_n.jpg
+  backgroundSize: contain
   backgroundPosition: center
-  backgroundRepeat: no-repeat
+  backgroundRepeat: repeat
   opacity: 75
 sections:
   - type: TextSection
