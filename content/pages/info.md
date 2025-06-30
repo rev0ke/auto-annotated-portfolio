@@ -124,7 +124,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discordapp.com/users/'
+            url: 'https://discordapp.com/users/268820600070340608'
         styles:
           self:
             textAlign: left
