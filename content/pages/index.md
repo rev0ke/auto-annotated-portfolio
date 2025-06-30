@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: TextSection
-    title: Welcome
+    title: Well..
     subtitle: ''
     text: |+
       Sanity is not guaranteed.
