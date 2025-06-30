@@ -14,10 +14,15 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+
+      From the moment I could tinker with a keyboard, I've been hooked on
+      technology. My lifelong obsession with cutting-edge innovations extends
+      beyond the digital realm to the engineering marvels of cars and the
+      precision of firearms. On this site, you can expect me to explore,
+      dissect, and celebrate all the exciting new developments that catch my
+      eye.
+
+      ==============================================================================================================================================================================================================================================================================================================================================================
 
     media:
       type: ImageBlock
