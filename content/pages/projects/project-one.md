@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Coming Soon...
 colors: colors-a
-date: '2100-01-30'
+date: '2100-01-01'
 client: ''
 description: Coming Soon...
 featuredImage:
