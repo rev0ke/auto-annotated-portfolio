@@ -13,7 +13,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: Got an interesting idea? Or not. I got time to kill. Tell me more..
     form:
       type: FormBlock
       elementId: sign-up-form
