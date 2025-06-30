@@ -221,7 +221,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Tell me about yourself
+          placeholder: Tell me about yourself...
           isRequired: true
           width: full
           type: TextareaFormControl
